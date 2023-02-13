@@ -1,0 +1,2 @@
+#!/bin/absh
+head /etc/passwd
